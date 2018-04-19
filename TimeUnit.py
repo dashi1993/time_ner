@@ -1,9 +1,4 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2017/11/20 17:01
-# @Author  : zhm
-# @File    : TimeUnit.py
-# @Software: PyCharm
 import regex as re
 import arrow
 import copy
